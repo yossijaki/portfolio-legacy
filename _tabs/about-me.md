@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user-circle
-order: 5
+order: 1
 ---
 
 👋 Hello there! I'm a passionate and experienced fullstack software developer with a knack for crafting elegant solutions that bridge the gap between front-end and back-end technologies.  
