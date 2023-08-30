@@ -1,4 +1,6 @@
 ---
+layout: page
+title: About Me
 icon: fas fa-user-circle
 order: 1
 ---
