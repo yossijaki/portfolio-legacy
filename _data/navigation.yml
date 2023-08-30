@@ -1,0 +1,7 @@
+- title: Blog
+  url: /blog/
+  icon: fa-pencil-alt
+
+- title: About
+  url: /about/
+  icon: fa-user
